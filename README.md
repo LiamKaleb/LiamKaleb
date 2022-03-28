@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LiamKaleb
 - 👀 I’m interested in Software Development!
 - 🌱 I’m currently learning about Front-End Development.
-- 💞️ I’m looking to collaborate on Mobile APPs and WEB development.
+- 💞️ I’m looking to collaborate on WEB development.
 - 📫 You can find me at linkedin.com/in/liamkaleb/ . My personal email: liam.kaleb@gmail.com
 
 <!---
